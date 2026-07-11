@@ -1,0 +1,6 @@
+{
+  "name": "EcoSmart System",
+  "description": "Sistem Informasi Terintegrasi Pengelolaan Limbah Minyak Jelantah & Bank Sampah Berbasis Web Portal",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
